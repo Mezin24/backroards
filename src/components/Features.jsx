@@ -1,5 +1,5 @@
-import SectionTitle from './ui/SectionTitle';
 import { tours } from '../data';
+import SectionTitle from './UI/SectionTitle';
 
 const Features = () => {
   return (
